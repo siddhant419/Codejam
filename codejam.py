@@ -1,4 +1,4 @@
-
+# Take input from matrix and calculate the Individual repeated Number of Column as well As Row also calculate Trace of The Matrix(Diagonal addition).
 
 def count(x):
     print('************************')
